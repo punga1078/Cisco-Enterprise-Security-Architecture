@@ -1,7 +1,7 @@
 # 🛡️ Secure Enterprise Network Architecture
 
 **Project:** Implementation of a Hardened Layer 2/3 Infrastructure with Site-to-Site VPN.
-**Author:** Facundo Andrés Cáceres Tiznado
+**Author:** Punga
 **Tools:** Cisco Packet Tracer 8.x
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge&logo=cisco)
