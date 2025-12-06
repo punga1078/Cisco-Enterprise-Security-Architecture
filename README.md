@@ -15,7 +15,7 @@ This project simulates a corporate network environment designed with a **"Securi
 The objective was to harden the network against common attacks (Spoofing, MITM, Unauthorized Access) and establish secure communications over public infrastructure using industry standards.
 
 ## 🏗️ Network Topology
-![Network Topology](./topology.png)
+![Network Topology](./Topology.jpg)
 *(Note: This topology highlights the HQ Site, WAN link, and Remote Branch)*
 
 **Key Components:**
